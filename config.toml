@@ -1,0 +1,33 @@
+baseURL = "https://www.clementlusson.me/"
+languageCode = "en-us"
+title = "Clément Lusson"
+theme = "coder"
+
+[params] # theme parameters
+    author = "Clément Lusson" # author's name
+    info = "EPSI Student - Currently working @Conserto" # author's job title or info
+    keywords = "blog,developer,personal" # site keywords
+    
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/clusson/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/ClementLusson/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/clément-lusson-14aa04106/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
