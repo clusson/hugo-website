@@ -4,7 +4,6 @@ title = "Clément Lusson"
 theme = "coder"
 
 [params] # theme parameters
-    author = "Clément Lusson" # author's name
     info = "EPSI Student - Currently working @Conserto" # author's job title or info
     keywords = "blog,developer,personal" # site keywords
     
